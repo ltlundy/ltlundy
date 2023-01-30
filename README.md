@@ -4,7 +4,7 @@ I am pursuing a BSc. in Software Engineering at McGill University, with a minor 
 
 My favorite programming language is Java 
 
-I have participated in the CodeJam2022 Hackathon at McGill and am looking foward to participating in future hackathons!
+I have participated in the CodeJam 2022 Hackathon and McHacks 2023 at McGill and am looking foward to participating in future hackathons!
 
 Some of my hobbies include:
 - Hiking
